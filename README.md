@@ -311,19 +311,19 @@ Example:
 
 **Team Name**
 
-**Data Badshah**
+**Skill2Solution**
 
 ---
 
 **Leader**
 
-Rahul Jaiswal
+Karan Devalla
 
 ---
 
 **Team Size**
 
-3 Members
+2 Members
 
 ---
 
