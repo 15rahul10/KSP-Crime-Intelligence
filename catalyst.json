@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "targets": [
+      "ksp_crime_intelligence_function",
+      "ksp_dashboard_api"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "ksp-crime-dashboard",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}

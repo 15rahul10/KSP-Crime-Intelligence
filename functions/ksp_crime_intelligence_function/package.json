@@ -1,0 +1,9 @@
+{
+	"name": "ksp_crime_intelligence_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "rj210606@gmail.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
