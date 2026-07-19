@@ -12,6 +12,9 @@
 
 # 📌 Problem Statement
 
+AI-Driven Crime Analytics & Visualization Platform
+
+
 Law enforcement agencies generate a massive amount of FIR and crime-related data every day. Traditional reporting systems make it difficult to identify crime hotspots, monitor trends, detect suspicious patterns, and support real-time operational decisions.
 
 **KSP Crime Intelligence** transforms raw FIR data into actionable intelligence through interactive dashboards, predictive analytics, hotspot visualization, and operational insights.
