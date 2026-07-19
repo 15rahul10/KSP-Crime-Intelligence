@@ -344,4 +344,4 @@ Special thanks to:
 
 This project is developed for educational and hackathon purposes.
 
-© 2026 Data Badshah
+© 2026 Skill2Solution
