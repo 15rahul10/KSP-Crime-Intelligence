@@ -290,20 +290,20 @@ catalyst deploy
 
 # 📷 Screenshots
 
-Add screenshots inside:
+
+<img width="1912" height="870" alt="image" src="https://github.com/user-attachments/assets/a42e51e8-c744-4145-9111-3735aa5fda52" />
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/d0494a1d-8c7e-43d7-b019-47105e551d61" />
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/a8687ba2-e9d0-4b70-a0ff-2b4491915b32" />
+<img width="1915" height="860" alt="image" src="https://github.com/user-attachments/assets/e339a4a1-e011-4caa-983f-61b92a7555c0" />
+
+
 
 ```
+
 screenshots/
 ```
 
-Example:
 
-- Dashboard
-- Hotspot Map
-- Link Analysis
-- Predictive Risk
-- Crime Forecasting
-- Emergency Dispatch
 
 ---
 
